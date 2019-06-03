@@ -3,6 +3,16 @@
 </div>
 
 ## Feature
+
+packages
+
+- express
+- body-parser
+- eslint
+- prettier
+- nodemon
+
+
 This code has GET, POST, PUT and DELET methods.
 
 It has no DB.
@@ -15,10 +25,15 @@ It has no DB.
 |  name  |  String  |  N/A |
 |  age  |  Number  | N/A |
 
-
-
-
 ## Usage
+
+### Setup
+
+```
+$ git clone https://github.com/Ut0n69/express-simple-boilerplate.git
+$ yarn
+$ yarn serve
+```
 
 ### GET
 
